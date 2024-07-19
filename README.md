@@ -16,7 +16,7 @@
 * HTML5
 * CSS3
 
-Link del proyecto: [Sortea2]()
+Link del proyecto: [ViajeVerde]()
 :raised_hands:
 :ribbon:
 :star2:
